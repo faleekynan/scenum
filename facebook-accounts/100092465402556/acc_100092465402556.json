@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "02.05.2023 15:15 1",
+	"lastEventDate": "02.05.2023 15:19 1",
 	"status": 2,
 	"id": "100092465402556",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Божена Сиваченко",
 	"birthdate": "1995 February 27",
-	"country": "",
+	"country": "Ukraine",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1714572536.981167,
+			"expirationDate": 1714576560.322328,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,19 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ1MTZ3ajFqcWxtdTkiLCJ0aW1lIjoxNjgzMDMwODM1fQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1683641408,
+			"expirationDate": 1683643963,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -105,17 +93,17 @@
 			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "presence",
+			"name": "usida",
 			"path": "/",
-			"sameSite": "unspecified",
+			"sameSite": "no_restriction",
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1683036533099%2C%22v%22%3A1%7D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ1MWQ5NDF1bTUwYWwiLCJ0aW1lIjoxNjgzMDM5MDY0fQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1714572536.98126,
+			"expirationDate": 1714576560.322432,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -124,11 +112,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "30%3ALv_7Qw1SA8MK6g%3A2%3A1682769693%3A-1%3A-1%3A%3AAcUX-Hu4sTCpgKxTXztAyWK6TQ8iO8wfb0LTgbNLK4Q"
+			"value": "30%3ALv_7Qw1SA8MK6g%3A2%3A1682769693%3A-1%3A-1%3A%3AAcUTCsCrHjiGtEa6XjOu69niRafGwBA8ROKnw0vlxKc"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1690812535.981311,
+			"expirationDate": 1690816567.577525,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +125,19 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0BX9Fa6Sdywx73lFO.AWWRyeV7kbNhvnAuM6lE3krWo0A.BkURl6.uw.AAA.0.0.BkURl6.AWWdQwfSdB4"
+			"value": "0ddzgZMVbZu7EdCGB.AWUVX8aJPKF16sG070eGhe0XuaI.BkUSky.uw.AAA.0.0.BkUSk5.AWUaY1Hjo5Y"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "presence",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1683040598344%2C%22v%22%3A1%7D"
 		}
 	]
 }
