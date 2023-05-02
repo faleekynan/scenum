@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "02.05.2023 15:44 1",
+	"lastEventDate": "02.05.2023 16:30 тест",
 	"status": 2,
 	"id": "100091939193249",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Анна Корж",
 	"birthdate": "1995 May 26",
-	"country": "",
+	"country": "Ukraine",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1714576388.750597,
+			"expirationDate": 1714579989.889097,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683643724,
+			"expirationDate": 1683649788,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -99,11 +99,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ1MTZnNDdsN3lpeSIsInRpbWUiOjE2ODMwMzAyNDR9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ1MWZwZjE0c2E5amgiLCJ0aW1lIjoxNjgzMDQyMjQzfQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1714576388.750681,
+			"expirationDate": 1714579989.889165,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -112,11 +112,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "31%3AkOncvddUVP8-_Q%3A2%3A1682769782%3A-1%3A-1%3A%3AAcVVsqlU7Tu31R0iI7aV4DpILC78JQ29rf51IFWzqnQ"
+			"value": "31%3AkOncvddUVP8-_Q%3A2%3A1682769782%3A-1%3A-1%3A%3AAcUqnw0fwHc3VV4HS0alFWqymoWZ4uiO-HKyfEZI-Mw"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1690817012.415425,
+			"expirationDate": 1690820880.808716,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0VDcEGzWHfAKUoJRe.AWUEtwPwIjSAwD9Oatjapcvy408.BkUSiG.Ze.AAA.0.0.BkUSr1.AWUdiPxiP6M"
+			"value": "0UDeZZMkKlhssgWer.AWWc4GllgrTZQvxrn55N5W6EdbY.BkUTaW.Ze.AAA.0.0.BkUToR.AWWKW2gWtsk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -137,7 +137,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1683041042189%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1683044930034%2C%22v%22%3A1%7D"
 		}
 	]
 }
