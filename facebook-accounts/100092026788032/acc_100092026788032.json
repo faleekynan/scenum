@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "02.05.2023 17:06 1",
+	"lastEventDate": "02.05.2023 17:08 1",
 	"status": 2,
 	"id": "100092026788032",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Надія Значко-Яворська",
 	"birthdate": "1996 March 27",
-	"country": "",
+	"country": "Ukraine",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1714576076.394755,
+			"expirationDate": 1714582746.064361,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,19 +78,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683643650,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1920x929"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -99,11 +86,24 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ1MWQxMjFzdmFndjkiLCJ0aW1lIjoxNjgzMDM4Nzc0fQ%3D%3D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ1MWVzbDd5d2t0biIsInRpbWUiOjE2ODMwNDEwNjF9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1714576076.394842,
+			"expirationDate": 1683650620,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "929x892"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1714582746.064447,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -112,11 +112,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "13%3AtbQtGIHP3pJ0Yg%3A2%3A1682769662%3A-1%3A-1%3A%3AAcUm34wCAtgEDY7CwggoVFLMY79HQnVLyRSis_lmqiM"
+			"value": "13%3AtbQtGIHP3pJ0Yg%3A2%3A1682769662%3A-1%3A-1%3A%3AAcUbCmVE__mwGHe6xSyGV_WgJqr2EZ0MZDB7jEMaEfM"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1690816075.394896,
+			"expirationDate": 1690823170.162917,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "08AHZzRc2ytKNCgNO.AWV6PNA3S7cGwSuZ-DZRpnMzCys.BkUSdN.AW.AAA.0.0.BkUSdN.AWXx0zW2D9c"
+			"value": "0mPzB29WtiYNfL3DJ.AWWcrW2tX-0LofRaBekc12VB500.BkUUFb.AW.AAA.0.0.BkUUMD.AWUjlaDLUzw"
 		},
 		{
 			"domain": ".facebook.com",
@@ -137,7 +137,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1683040103296%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1683047200084%2C%22v%22%3A1%7D"
 		}
 	]
 }
