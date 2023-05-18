@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "18.05.2023 13:17 2",
+	"lastEventDate": "18.05.2023 13:19 2",
 	"status": 2,
 	"id": "100092952632829",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Юхимія Чепелюк",
 	"birthdate": "1987 October 5",
-	"country": "",
+	"country": "Ukraine",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715875665.553571,
+			"expirationDate": 1715951865.545288,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684943810,
+			"expirationDate": 1685020712,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715875665.553625,
+			"expirationDate": 1715951865.545439,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "11%3AN7u_0rvURLYfdA%3A2%3A1684277324%3A-1%3A-1%3A%3AAcUy2JA8dzmmn1R1zYqQzkqTgj_9E0cdlVivbeD5wQ"
+			"value": "11%3AN7u_0rvURLYfdA%3A2%3A1684277324%3A-1%3A-1%3A%3AAcVwRECP3e_kvUBtf9wg0QdNP8Dlx6tzS7IwkZrcQg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692115664.553659,
+			"expirationDate": 1692191864.545484,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,19 +100,19 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "07FDrRflaGiZktViF.AWXinwW6XARZhfFHmMGaQjCEeCU.BkZPvS.DJ.AAA.0.0.BkZPvS.AWVR5lDRBmc"
+			"value": "0PIviKH7GJF6hGVXT.AWU--ve3SRVBBu3G6wwD5WdqydU.BkZiV4.DJ.AAA.0.0.BkZiV4.AWXdUynpebA"
 		},
 		{
 			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "presence",
+			"name": "usida",
 			"path": "/",
-			"sameSite": "unspecified",
+			"sameSite": "no_restriction",
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1684339691371%2C%22v%22%3A1%7D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ1dXZtN2JqcnpmeCIsInRpbWUiOjE2ODQ0MTU4ODd9"
 		}
 	],
 	"funPagesInfo": [
