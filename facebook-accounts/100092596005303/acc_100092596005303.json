@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "18.05.2023 09:38 2",
+	"lastEventDate": "18.05.2023 09:42 2",
 	"status": 2,
 	"id": "100092596005303",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Доротея Каспрук",
 	"birthdate": "1992 November 7",
-	"country": "",
+	"country": "Ukraine",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715869200.984887,
+			"expirationDate": 1715938723.77455,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684937152,
+			"expirationDate": 1685007578,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715869200.98494,
+			"expirationDate": 1715938723.774604,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "13%3A_KycqQldFqBkgQ%3A2%3A1684258677%3A-1%3A-1%3A%3AAcWEjbhO-a7bV1kSnfspE684yoe5ZeWeQunJfET23g"
+			"value": "13%3A_KycqQldFqBkgQ%3A2%3A1684258677%3A-1%3A-1%3A%3AAcWa5lGJtAdf1E4MzG2rGa9pr_Z8EmahwFgMkvNpIQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692109199.98497,
+			"expirationDate": 1692178722.774634,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0rirLslpQiA6HfDBM.AWWE1r9TKuYJCbCMweWom_WP26s.BkZOKR.Qk.AAA.0.0.BkZOKR.AWUCszUS_lk"
+			"value": "03H2W1UGpWttHZjqA.AWUf2D8CIb_stHm_Lz3SmxvtyFo.BkZfIk.Qk.AAA.0.0.BkZfIk.AWWRiaZdBnc"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1684333226493%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1684402760427%2C%22v%22%3A1%7D"
 		}
 	]
 }
