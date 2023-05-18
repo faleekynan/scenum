@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "18.05.2023 09:36 2",
+	"lastEventDate": "18.05.2023 09:38 2",
 	"status": 2,
 	"id": "100092394056385",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Марфа Мережко",
 	"birthdate": "1990 July 22",
-	"country": "",
+	"country": "Ukraine",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715869416.513718,
+			"expirationDate": 1715938581.162862,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684937162,
+			"expirationDate": 1685007430,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715869416.513771,
+			"expirationDate": 1715938581.162913,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "17%3AAMaXuzQctMGiHg%3A2%3A1684259796%3A-1%3A-1%3A%3AAcV64-fIJdg2XsSXGVsAFr0Ib3ZtpCChwkU6J8ce6g"
+			"value": "17%3AAMaXuzQctMGiHg%3A2%3A1684259796%3A-1%3A-1%3A%3AAcUKPNeMYT1GsRdsUyNzYeBxn_HBzR5DjlYedyh_Mg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692109415.513799,
+			"expirationDate": 1692178579.162942,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0IP21n5bsmotVx7jm.AWVQMrwqsZEdX8XNsqJ-Fe0zSts.BkZONp.4v.AAA.0.0.BkZONp.AWVY0m8DhgU"
+			"value": "0s8K6h6NOXljgznA1.AWVmh63QxjkKUaW3OfcC-AT-CJk.BkZfGW.4v.AAA.0.0.BkZfGW.AWU3wDKV97g"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1684333469536%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1684402607923%2C%22v%22%3A1%7D"
 		}
 	]
 }
