@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "18.05.2023 09:39 2",
+	"lastEventDate": "18.05.2023 09:41 2",
 	"status": 2,
 	"id": "100092688433035",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Клара Данильчук",
 	"birthdate": "2001 July 12",
-	"country": "",
+	"country": "Ukraine",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715869253.536075,
+			"expirationDate": 1715938761.375213,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684937171,
+			"expirationDate": 1685007628,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715869253.536128,
+			"expirationDate": 1715938761.375261,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +100,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "23%3Az-gxCVQ10Uyfrg%3A2%3A1684260311%3A-1%3A-1%3A%3AAcXg5BBmBju19_FPPgxuj4-RjVGMpm-o_oSCbaU5JA"
+			"value": "23%3Az-gxCVQ10Uyfrg%3A2%3A1684260311%3A-1%3A-1%3A%3AAcVgFn7RH_ghhAhm0SrbWEiczHhsvbV4rGCR6hvusg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692109252.536153,
+			"expirationDate": 1692178759.375286,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0CQMdzVl1bfMSwOv1.AWUJleVOEyMDfssjbki3q2F2nuE.BkZOLG.oH.AAA.0.0.BkZOLG.AWVxcbxJ8Y8"
+			"value": "0QIt3UWHTw26g6uyI.AWU8ALNDS_hX4r3-qZ_YixRgfX8.BkZfJK.oH.AAA.0.0.BkZfJK.AWVOc13LRJU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1684333279342%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1684402804748%2C%22v%22%3A1%7D"
 		}
 	]
 }
