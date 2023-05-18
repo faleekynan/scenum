@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "18.05.2023 11:29 2",
+	"lastEventDate": "18.05.2023 11:32 2",
 	"status": 2,
 	"id": "100092432274638",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Ельвіра Остафійчук",
 	"birthdate": "1986 August 8",
-	"country": "",
+	"country": "Ukraine",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715875686.308027,
+			"expirationDate": 1715945393.779105,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684943636,
+			"expirationDate": 1685013385,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715875686.308079,
+			"expirationDate": 1715945393.779156,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +100,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "27%3APrb2gC1s405msQ%3A2%3A1684268443%3A-1%3A-1%3A%3AAcVMdMatijdzpkBvZz3PLmd8RLxtdRrY2GpblbubFQ"
+			"value": "27%3APrb2gC1s405msQ%3A2%3A1684268443%3A-1%3A-1%3A%3AAcUx3lACfSse-xlxElveBp4OMDsjgYgEDKeCAprioTg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692115685.308109,
+			"expirationDate": 1692185395.842558,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +113,19 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "084QldLgUldKzijoK.AWVy8XgX5XeZweGY_p5VQKOAchc.BkZPvn.Hp.AAA.0.0.BkZPvn.AWWAQWf4d4Q"
+			"value": "06MBtqLTxYrAprPDE.AWWQrb8zMNfOFKRdgCMwaT9rBmg.BkZgwy.Hp.AAA.0.0.BkZgw0.AWVq0vPu9oQ"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ1dXFtbm50ZGJodiIsInRpbWUiOjE2ODQ0MDk0MjN9"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +137,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1684339759055%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1684409446482%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPagesInfo": [
