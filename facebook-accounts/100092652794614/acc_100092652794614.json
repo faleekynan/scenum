@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "18.05.2023 11:28 2",
+	"lastEventDate": "18.05.2023 11:31 2",
 	"status": 2,
 	"id": "100092652794614",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Мокрина Даниш",
 	"birthdate": "1987 March 2",
-	"country": "",
+	"country": "Ukraine",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715876394.054256,
+			"expirationDate": 1715945308.372211,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684943663,
+			"expirationDate": 1685014084,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -74,11 +74,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "929x900"
+			"value": "0x0"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715876394.054293,
+			"expirationDate": 1715945308.372266,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "3%3APJ1xhx96oEdz_A%3A2%3A1684270248%3A-1%3A-1%3A%3AAcUMpXfMnBvt8JD6Io6wVoVas8gDsXa4_8WiREMj1Q"
+			"value": "3%3APJ1xhx96oEdz_A%3A2%3A1684270248%3A-1%3A-1%3A%3AAcWFKO6t2RUY8l-hRmANICf3SQfKJg4NwcuZShQaAw"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692116393.054312,
+			"expirationDate": 1692185313.354629,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,19 +100,19 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0XAowISzIT5Bc805M.AWVlOClAnDXG8My3PFSkQmg3y78.BkZP6q.kL.AAA.0.0.BkZP6q.AWV9utsfvfU"
+			"value": "08LZI7g62epeCnOmV.AWXCcflJ9doMOJaqKiyCNUoOFPc.BkZgvc.kL.AAA.0.0.BkZgvi.AWVEC2NzlYA"
 		},
 		{
 			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "presence",
+			"name": "usida",
 			"path": "/",
-			"sameSite": "unspecified",
+			"sameSite": "no_restriction",
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1684340421404%2C%22v%22%3A1%7D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ1dXFrZm9yNnF0eSIsInRpbWUiOjE2ODQ0MDkzNDN9"
 		}
 	],
 	"funPagesInfo": [
