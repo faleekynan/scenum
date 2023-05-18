@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "18.05.2023 13:17 2",
+	"lastEventDate": "18.05.2023 13:20 2",
 	"status": 2,
 	"id": "100092714737215",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Инга Паска",
 	"birthdate": "2000 November 7",
-	"country": "",
+	"country": "Ukraine",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715883698.959512,
+			"expirationDate": 1715951890.687939,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684947356,
+			"expirationDate": 1685020741,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715883698.959562,
+			"expirationDate": 1715951890.687994,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +100,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "17%3Ap87sUUsgjM3OHA%3A2%3A1684290178%3A-1%3A-1%3A%3AAcVHgx_CJeP_tR7e_XGRZAvhRInQp1ckpP-pEE6_Vw"
+			"value": "17%3Ap87sUUsgjM3OHA%3A2%3A1684290178%3A-1%3A-1%3A%3AAcUMPwpF1c3dh8i0NJTSffKiveh9v_SrqnvxBeJnWQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692123697.959588,
+			"expirationDate": 1692191888.688023,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,19 +113,19 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0sjBRyhhF3ApLDTd4.AWUz-X74uquhqWMD1S9llwOS3n0.BkZRsz.BJ.AAA.0.0.BkZRsz.AWWuKs4rfEQ"
+			"value": "0JhkrJFEMZgYw8plY.AWWufwTEZACePM0RhsNoDMX8gik.BkZiWT.BJ.AAA.0.0.BkZiWT.AWXYxcJ8nuU"
 		},
 		{
 			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "presence",
+			"name": "usida",
 			"path": "/",
-			"sameSite": "unspecified",
+			"sameSite": "no_restriction",
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1684347725471%2C%22v%22%3A1%7D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ1dXZuM3Z4NTY5cSIsInRpbWUiOjE2ODQ0MTU5MTl9"
 		}
 	],
 	"funPagesInfo": [
