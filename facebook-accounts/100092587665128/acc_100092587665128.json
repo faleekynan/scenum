@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "18.05.2023 11:19 2",
+	"lastEventDate": "18.05.2023 11:22 2",
 	"status": 2,
 	"id": "100092587665128",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Чеслава Підлужна",
 	"birthdate": "1991 November 2",
-	"country": "",
+	"country": "Ukraine",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715876244.130967,
+			"expirationDate": 1715944747.57078,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684943690,
+			"expirationDate": 1685013607,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715876244.131021,
+			"expirationDate": 1715944747.570831,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "36%3AvJEPCReoI1CE1g%3A2%3A1684271423%3A-1%3A-1%3A%3AAcX73naG_GIOXs15kUzEVtrynyOuG54Q7p2YKu4LaQ"
+			"value": "36%3AvJEPCReoI1CE1g%3A2%3A1684271423%3A-1%3A-1%3A%3AAcXdwU2PafsExyLFl366Nn7nAS-YD3gppuc2OnPSUA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692116243.131051,
+			"expirationDate": 1692184750.578244,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0q9eB3wOrX8Z2bwOK.AWWmSvKDOv3s8t1vP12_KSZwwTM.BkZP4U.Ja.AAA.0.0.BkZP4U.AWWNpDXXvhI"
+			"value": "0R7EvsZdnXAqojNaW.AWUDXsn2E9pUFghznX7TLePtxJQ.BkZgms.Ja.AAA.0.0.BkZgmv.AWUnwQXSAXk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,11 +112,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1684340275551%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1684408782089%2C%22v%22%3A1%7D"
 		},
 		{
 			"domain": ".www.facebook.com",
-			"expirationDate": 1718900289.343561,
+			"expirationDate": 1718968801.584183,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "m_ls",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABYWFvS7kqgGEwUW0JuP8pPCLQA%22%2C%222%22%3A%22GSwVQBxMAAAWABbi-KfGDBYAABV-HEwAABYAFuj4p8YMFgAAFigA%22%7D%2C%22d%22%3A%22a25a3bea-ed0a-41be-af12-7e272ecf237d%22%2C%22s%22%3A%220%22%2C%22u%22%3A%22dfrnyp%22%7D"
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABZOFoTZkr8IEwUW0JuP8pPCLQA%22%2C%222%22%3A%22GSwVQBxMAAAWABaSp7DGDBYAABV-HEwAABYAFpynsMYMFgAAFigA%22%7D%2C%22d%22%3A%22a25a3bea-ed0a-41be-af12-7e272ecf237d%22%2C%22s%22%3A%220%22%2C%22u%22%3A%225x94lg%22%7D"
 		}
 	]
 }
