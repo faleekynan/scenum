@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "18.05.2023 13:20 2",
+	"lastEventDate": "18.05.2023 13:23 2",
 	"status": 2,
 	"id": "100092463893424",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Настя Полетика",
 	"birthdate": "1985 May 17",
-	"country": "",
+	"country": "Ukraine",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715883498.473415,
+			"expirationDate": 1715952034.031224,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684947252,
+			"expirationDate": 1685020882,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,7 +78,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715883498.473464,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ1dGc0Z3M0ejhjIiwidGltZSI6MTY4NDM0OTQwN30%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1715952034.031286,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +99,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "39%3AFw8TpqMZzOmZtw%3A2%3A1684280951%3A-1%3A-1%3A%3AAcW9lnkDnA4fGIT8uNWhhIMet0h8pusavGqGjm5zXw"
+			"value": "39%3AFw8TpqMZzOmZtw%3A2%3A1684280951%3A-1%3A-1%3A%3AAcV1KIrNUzHM_zoNX2NLsol_i-6KQrqHPulMDjF-sQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692123502.685973,
+			"expirationDate": 1692192033.03132,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0ZZHmLp5DPSeOpC1T.AWW0hxJ6kUNtVkn3aJjz1YDHW54.BkZRpr.8L.AAA.0.0.BkZRpv.AWVOPkSrx0Y"
+			"value": "0lnP0VrpEFsosLNYY.AWWvvOXwRWJf2MRho-BFM-e75F4.BkZiYi.8L.AAA.0.0.BkZiYi.AWWcd7Vodk8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +124,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1684347534185%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1684416059379%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPagesInfo": [
