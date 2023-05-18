@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "18.05.2023 11:15 2",
+	"lastEventDate": "18.05.2023 11:18 2",
 	"status": 2,
 	"id": "100092647748955",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Йовілла Горак",
 	"birthdate": "2000 May 20",
-	"country": "",
+	"country": "Ukraine",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715875993.917521,
+			"expirationDate": 1715944554.333199,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684943717,
+			"expirationDate": 1685013413,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715875993.917581,
+			"expirationDate": 1715944554.33325,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "29%3ABl0y2pytgqiptA%3A2%3A1684271810%3A-1%3A-1%3A%3AAcVMBWuvxvPBx1HaMrB3r1vgVRVpfN5-k1Pfga9zaw"
+			"value": "29%3ABl0y2pytgqiptA%3A2%3A1684271810%3A-1%3A-1%3A%3AAcWWM-tANu7YEIn6s_tMZfQ09_nmuBQw6qdsLAnI7w"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692116003.573444,
+			"expirationDate": 1692184557.264362,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,19 +100,19 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0KeZzrRvaVFpiGqFk.AWWa5K_Za0IqGbZw7jbcwN5feMk.BkZP0a.NQ.AAA.0.0.BkZP0k.AWUWK75g_nU"
+			"value": "0yeo5uBQWC98Q67Mx.AWUWnvYwTygARbGpK2N7a3Bbh5E.BkZgjr.NQ.AAA.0.0.BkZgju.AWUPIBusTmo"
 		},
 		{
 			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "presence",
+			"name": "usida",
 			"path": "/",
-			"sameSite": "unspecified",
+			"sameSite": "no_restriction",
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1684340049944%2C%22v%22%3A1%7D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ1dXB6ZzE1NWVleGgiLCJ0aW1lIjoxNjg0NDA4NTg4fQ%3D%3D"
 		}
 	],
 	"funPagesInfo": [
