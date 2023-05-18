@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "18.05.2023 13:15 2",
+	"lastEventDate": "18.05.2023 13:17 2",
 	"status": 2,
 	"id": "100092467193118",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Таїса Боровець",
 	"birthdate": "2000 December 6",
-	"country": "",
+	"country": "Ukraine",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715883428.772976,
+			"expirationDate": 1715951749.195266,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684947432,
+			"expirationDate": 1685020596,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715883428.773029,
+			"expirationDate": 1715951749.195316,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "15%3AsYRysuo7eVEHKw%3A2%3A1684302260%3A-1%3A-1%3A%3AAcXh2TFXIX0fsZ7wCTCsKXCtqactkXPGucH6K1Q8qg"
+			"value": "15%3AsYRysuo7eVEHKw%3A2%3A1684302260%3A-1%3A-1%3A%3AAcXcoo7wodyK6b1oPlRGkQkZG6gVuBE89Ci4TRjJPQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692123427.773059,
+			"expirationDate": 1692191748.195345,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,19 +100,19 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0QNi1XVet7qUko1WT.AWVK5ML55e_-j4hH406uBCXtfFc.BkZRol.Ew.AAA.0.0.BkZRol.AWW7dGVvZwI"
+			"value": "0MVXOdexfilUviTsM.AWVcTrUR5Ri5TQNK78yF-lfehbU.BkZiUF.Ew.AAA.0.0.BkZiUF.AWW0BQjsaSI"
 		},
 		{
 			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "presence",
+			"name": "usida",
 			"path": "/",
-			"sameSite": "unspecified",
+			"sameSite": "no_restriction",
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1684347451459%2C%22v%22%3A1%7D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ1dXZqMzFlb2JudXQiLCJ0aW1lIjoxNjg0NDE1Nzc1fQ%3D%3D"
 		}
 	],
 	"funPagesInfo": [
