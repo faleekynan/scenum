@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "18.05.2023 11:26 [CABINET]",
+	"lastEventDate": "18.05.2023 11:30 [CABINET]",
 	"status": 2,
 	"id": "100092180738874",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Орина Колодій",
 	"birthdate": "1995 October 4",
-	"country": "",
+	"country": "Ukraine",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715876130.224043,
+			"expirationDate": 1715945209.636918,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715876130.224098,
+			"expirationDate": 1715945209.63697,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +100,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "35%3ALTeHuDL02uZBdg%3A2%3A1684265825%3A-1%3A-1%3A%3AAcUzgweiNcYQCGh5TIR3ld78Z5A35mhqubNoBsRMcQ"
+			"value": "35%3ALTeHuDL02uZBdg%3A2%3A1684265825%3A-1%3A-1%3A%3AAcX24p5L7hJcB8YgnSqyn3kFwyR7g5eD3qaHl4SBOg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692116128.224127,
+			"expirationDate": 1692185208.637,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +113,19 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0H0VPX0Yjif5jvYKu.AWXtqea1teAhf7M9BMOax4oAduE.BkZP2j.U8.AAA.0.0.BkZP2j.AWWjAmsUNRQ"
+			"value": "0hwaAtWsgdOVWIJaQ.AWVCsOrotNDw24rMDlf9NGmL05U.BkZgt6.U8.AAA.0.0.BkZgt6.AWVqmqvSBdQ"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ1dXFoZTE0NjFuOGYiLCJ0aW1lIjoxNjg0NDA5MjM0fQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +137,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1684340153608%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1684409257428%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPagesInfo": [
