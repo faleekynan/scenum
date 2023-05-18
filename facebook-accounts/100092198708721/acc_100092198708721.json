@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "18.05.2023 11:24 2",
+	"lastEventDate": "18.05.2023 11:26 2",
 	"status": 2,
 	"id": "100092198708721",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Йовілла Андрієвська",
 	"birthdate": "1989 July 15",
-	"country": "",
+	"country": "Ukraine",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715875881.191482,
+			"expirationDate": 1715945047.568666,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -90,46 +90,8 @@
 			"value": "929x900"
 		},
 		{
-			"domain": ".facebook.com",
-			"expirationDate": 1715875881.191538,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "32%3Ad4aimfNfiWUn5g%3A2%3A1684265561%3A-1%3A-1%3A%3AAcVeI7kUWxxwgkNJnYPIg8IqD6zNggjS6kfA4imzmw"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1692115879.19157,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0ck5U6LztZhit7ocP.AWUgPAsCGt3D98mAPbXPUqRrh1k.BkZPyq.Rc.AAA.0.0.BkZPyq.AWWCO2KQfKo"
-		},
-		{
-			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "presence",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1684339913163%2C%22v%22%3A1%7D"
-		},
-		{
 			"domain": ".www.facebook.com",
-			"expirationDate": 1718899925.579795,
+			"expirationDate": 1718901385.682874,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "m_ls",
@@ -138,7 +100,45 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABYOFsqbiqsKEwUW4peX_5DCLQA%22%2C%222%22%3A%22GSwVQBxMAAAWABbK4afGDBYAABV-HEwAABYAFtDhp8YMFgAAFigA%22%7D%2C%22d%22%3A%22ad27d9ce-4ec3-43ef-a572-22436ff4e05b%22%2C%22s%22%3A%220%22%2C%22u%22%3A%22zq9zr0%22%7D"
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABYSFsqbiqsKEwUW4peX_5DCLQA%22%2C%222%22%3A%22GSwVQBxMAAAWABbK4afGDBYAABV-HEwAABYAFtDhp8YMFgAAFigA%22%7D%2C%22d%22%3A%22ad27d9ce-4ec3-43ef-a572-22436ff4e05b%22%2C%22s%22%3A%220%22%2C%22u%22%3A%22sycuu1%22%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1715945047.568719,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "32%3Ad4aimfNfiWUn5g%3A2%3A1684265561%3A-1%3A-1%3A%3AAcVDEbLN9si0DmoniXZw3VfoAJSNj-8B3l2hvgRPnw"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1692185046.568751,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0OMvYnQN8ezhCSRKE.AWWIwIYs1GoOT8yM7Y9lQS7jyO8.BkZgrY.Rc.AAA.0.0.BkZgrY.AWUN8bMOOaw"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ1dXFjd2J4cG44ZSIsInRpbWUiOjE2ODQ0MDkwNzJ9"
 		}
 	],
 	"funPagesInfo": [
