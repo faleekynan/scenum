@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "18.05.2023 13:13 2",
+	"lastEventDate": "18.05.2023 13:16 2",
 	"status": 2,
 	"id": "100092497268938",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Фросина Малкович",
 	"birthdate": "1989 August 20",
-	"country": "",
+	"country": "Ukraine",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715883256.323347,
+			"expirationDate": 1715950663.223764,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684947245,
+			"expirationDate": 1685020488,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715883256.323397,
+			"expirationDate": 1715950663.223827,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +100,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "24%3As3TG-6edutaYTg%3A2%3A1684280240%3A-1%3A-1%3A%3AAcXTUqwArJPsmm_Qk1e90_eebY-5GqIIQ4YF6a7WMQ"
+			"value": "24%3As3TG-6edutaYTg%3A2%3A1684280240%3A-1%3A-1%3A%3AAcUzNPG9x9jbimT-_kFugNO3obMcP76CY26CNlOKOA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692123254.323427,
+			"expirationDate": 1692191638.160075,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,19 +113,19 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0xuHSHryUP7kOh8wu.AWXEQL-HSM1jg7TWHnSQwPZxPxo.BkZRl5.mO.AAA.0.0.BkZRl5.AWWrEqnT-MA"
+			"value": "0KA563KwwlV26hOeg.AWUhfwdJZTnam-NsEXNokWpy8xU.BkZiDI.mO.AAA.0.0.BkZiSX.AWURjgvC088"
 		},
 		{
 			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "presence",
+			"name": "usida",
 			"path": "/",
-			"sameSite": "unspecified",
+			"sameSite": "no_restriction",
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1684347260032%2C%22v%22%3A1%7D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ1dXZnNDRwd3BpdiIsInRpbWUiOjE2ODQ0MTU2Njh9"
 		}
 	],
 	"funPagesInfo": [
