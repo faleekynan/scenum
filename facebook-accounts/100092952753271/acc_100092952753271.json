@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "19.05.2023 11:49 2",
+	"lastEventDate": "19.05.2023 11:52 2",
 	"status": 2,
 	"id": "100092952753271",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Юлія Литвинчук",
 	"birthdate": "1989 June 13",
-	"country": "",
+	"country": "Ukraine",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715883546.176898,
+			"expirationDate": 1716033016.404576,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684947488,
+			"expirationDate": 1685101866,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715883546.176949,
+			"expirationDate": 1716033016.404613,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "17%3AJdaqC-0ZJlz5Sw%3A2%3A1684307692%3A-1%3A-1%3A%3AAcVpfw5sBVeC4-kchW9QWrwvo4ekf3_JTqo1RwpAYA"
+			"value": "17%3AJdaqC-0ZJlz5Sw%3A2%3A1684307692%3A-1%3A-1%3A%3AAcV_vO7hoCuHloF_ckDJtcZcKsQlttsersJYw29Rqg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692123544.176978,
+			"expirationDate": 1692273015.404632,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,19 +100,19 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0RJEGUEtwbmPrIrH4.AWWQM-SXLpuC-BMdk7ztFDL4Fh8.BkZRqb.Rf.AAA.0.0.BkZRqb.AWUtlg0pGZs"
+			"value": "0rQc6tNJ330mT5LWu.AWWTgi41ELbtysYlg_bIBdB5ehI.BkZ2J4.Rf.AAA.0.0.BkZ2J4.AWUtoFIKVsQ"
 		},
 		{
 			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "presence",
+			"name": "usida",
 			"path": "/",
-			"sameSite": "unspecified",
+			"sameSite": "no_restriction",
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1684347575793%2C%22v%22%3A1%7D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ1d204azFwMGFpNHIiLCJ0aW1lIjoxNjg0NDk3MDQ0fQ%3D%3D"
 		}
 	],
 	"funPagesInfo": [
