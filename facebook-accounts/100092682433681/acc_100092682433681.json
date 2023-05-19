@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "19.05.2023 11:52 2",
+	"lastEventDate": "19.05.2023 11:55 2",
 	"status": 2,
 	"id": "100092682433681",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Елеонора Каховська",
 	"birthdate": "1987 October 24",
-	"country": "",
+	"country": "Ukraine",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715883741.855989,
+			"expirationDate": 1716033193.647933,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684947311,
+			"expirationDate": 1685102045,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715883741.85604,
+			"expirationDate": 1716033193.647982,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "10%3AW9KLhzO_wuWobQ%3A2%3A1684284399%3A-1%3A-1%3A%3AAcX1B5T4KkWosLirr7671P714Z7circRZvSIz9rU2g"
+			"value": "10%3AW9KLhzO_wuWobQ%3A2%3A1684284399%3A-1%3A-1%3A%3AAcWRuDtPbleZaC7hmEkaw_LH01cecAORR9KlO6hiZg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692123743.443446,
+			"expirationDate": 1692273192.648012,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,19 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "05LFb0ok4ag7LTuya.AWWXLUMgsv01Jfh-qSHwLOVo2Yw.BkZRte.vh.AAA.0.0.BkZRtg.AWWVZiJ97lg"
+			"value": "0UuZLuremtu8aueak.AWVoJ9aTSYyzZahMoxJvP_jS9s8.BkZ2Mq.vh.AAA.0.0.BkZ2Mq.AWUf9h1xjPE"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ1d21kZ3prNW1kMCIsInRpbWUiOjE2ODQ0OTcyMjB9"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +124,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1684347773782%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1684497239016%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPagesInfo": [
