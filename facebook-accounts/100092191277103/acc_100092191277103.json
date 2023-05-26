@@ -1,9 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"status": 2,
+	"status": 1,
 	"id": "100092191277103",
 	"name": "",
+	"amountFriends": "",
+	"screenname": "Стефанія Пашковська",
+	"birthdate": "2000 February 15",
+	"country": "",
+	"isAvatarExists": false,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -46,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716578135.644721,
+			"expirationDate": 1716631286.258465,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -59,20 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685646938,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "929x900"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1716578135.644773,
+			"expirationDate": 1716631286.258514,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -81,11 +73,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "36%3ASKfwiSqS_Ew-uQ%3A2%3A1684854640%3A-1%3A-1%3A%3AAcUzWNONXBWd7ghdwGgAQt0c3q8W9yNMY0LE596fuQ"
+			"value": "36%3ASKfwiSqS_Ew-uQ%3A2%3A1684854640%3A-1%3A-1%3A%3AAcWnL61QCPxoyHADUHh99Yb7Qq-rOb-udUFiW7PoXQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692818675.71477,
+			"expirationDate": 1685700514,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1920x937"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1692871655.602897,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -94,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0ib5YL0Me7UUor926.AWUOjnplGE9QruZJrDBKd7XWhm0.Bkb7PY.9S.AAA.0.0.Bkb7X0.AWWxByGNHSI"
+			"value": "0gYqUIl2abHZnTwmd.AWVvWeroZCVxwHj40ko580g_z5M.BkcIN3.9S.AAA.0.0.BkcITo.AWUaRvgzmRc"
 		},
 		{
 			"domain": ".facebook.com",
@@ -106,8 +111,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1685042746539%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1685095686990%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "25.05.2023 19:31 ЗРД"
+	"lastEventDate": "26.05.2023 12:29 ЗРД"
 }
