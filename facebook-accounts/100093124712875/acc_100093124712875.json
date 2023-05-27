@@ -7,7 +7,7 @@
 	"amountFriends": "",
 	"screenname": "Віра Мохнацька",
 	"birthdate": "1996 April 23",
-	"country": "",
+	"country": "Ukraine",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716708078.875629,
+			"expirationDate": 1716744412.531146,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685776935,
+			"expirationDate": 1685813276,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -77,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716708078.875684,
+			"expirationDate": 1716744412.531198,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -86,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "38%3A4rgRpN3a2oi05g%3A2%3A1684831309%3A-1%3A-1%3A%3AAcWPKS6dQh72pnVLb_gnr9BCT9xs50gwrd3S8eUSN0Y"
+			"value": "38%3A4rgRpN3a2oi05g%3A2%3A1684831309%3A-1%3A-1%3A%3AAcXhRBmc85z_NNG7Xal7hy-dl_V3ApWWKYwkt1L77G8"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692948082.223681,
+			"expirationDate": 1692984420.535953,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0oyGeulix5GgqibdF.AWXvBx4goTk8FjYwLM3IvZnDi2E.Bkca9v.5u.AAA.0.0.Bkca9z.AWWhf2IRy_s"
+			"value": "0bqjTXt53wenbNNxv.AWUMsPjofRz3oMOuMryd7iT8pUw.Bkcj1d.5u.AAA.0.0.Bkcj1l.AWVbnycGziE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,9 +111,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1685172134250%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1685208454869%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.05.2023 17:26 Farm",
+	"lastEventDate": "27.05.2023 17:29 Farm",
 	"rfa": true
 }
