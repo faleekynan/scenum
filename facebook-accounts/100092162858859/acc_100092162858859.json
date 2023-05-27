@@ -7,7 +7,7 @@
 	"amountFriends": "",
 	"screenname": "Наталія Бенюк",
 	"birthdate": "1989 April 15",
-	"country": "",
+	"country": "Ukraine",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -38,7 +38,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716707867.262842,
+			"expirationDate": 1716744205.659948,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685776714,
+			"expirationDate": 1685813064,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716707867.262896,
+			"expirationDate": 1716744205.660001,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -73,11 +73,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "3%3AG6IG-e1UknTc7w%3A2%3A1684960396%3A-1%3A-1%3A%3AAcW8lQdlPKqQSrTM2lHTVEMUCTwGy5l7snq8ldroaXE"
+			"value": "3%3AG6IG-e1UknTc7w%3A2%3A1684960396%3A-1%3A-1%3A%3AAcU9B6VF3shcF8WdWulCiRyBmUlTUYhbYHY_UbPe72w"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692947865.262925,
+			"expirationDate": 1692984206.220786,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -86,7 +86,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0wc8GLUbHruz62q4l.AWW0wSAXSsC1_9k6HEdNbxk5Vj0.Bkca6c.O-.AAA.0.0.Bkca6c.AWX08zwdfHg"
+			"value": "0HNusmR739iTaHYRa.AWX-yheloqmQ1nrgLdde_34DYvs.BkcjyO.O-.AAA.0.0.BkcjyP.AWW_PWlroUw"
 		},
 		{
 			"domain": ".facebook.com",
@@ -98,9 +98,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1685171890935%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1685208236465%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.05.2023 17:23 Farm",
+	"lastEventDate": "27.05.2023 17:26 Farm",
 	"rfa": true
 }
