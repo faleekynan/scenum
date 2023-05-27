@@ -7,7 +7,7 @@
 	"amountFriends": "",
 	"screenname": "Олександра Соловей",
 	"birthdate": "1988 May 13",
-	"country": "",
+	"country": "Ukraine",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -38,7 +38,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716707351.3476,
+			"expirationDate": 1716745000.589809,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685776216,
+			"expirationDate": 1685778830,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716707351.347647,
+			"expirationDate": 1716745000.589866,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -73,11 +73,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "22%3ACN4VjHfGtCu6GQ%3A2%3A1684960142%3A-1%3A-1%3A%3AAcU-TW9OUeHiPMRINqExUPy5ZrZQ3UHGRyg9FMZe9P0"
+			"value": "22%3ACN4VjHfGtCu6GQ%3A2%3A1684960142%3A-1%3A-1%3A%3AAcXKA7zHugLep7jgP0J-Pm7GcsFwsElePYuq1V60EEc"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692947356.953964,
+			"expirationDate": 1692985001.136849,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -86,7 +86,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0TOZJEbh92Ip1QsUG.AWWbzv-aNv99Xjf2iFi0G3KMFf0.BkcayY.fr.AAA.0.0.Bkcayd.AWWRV495cz0"
+			"value": "0E8gPOyTEo5kC5Bsm.AWUs88CF8_VWIK0i28zmCOt1yXg.Bkcj-p.fr.AAA.0.0.Bkcj-q.AWU_SES9S1g"
 		},
 		{
 			"domain": ".facebook.com",
@@ -98,9 +98,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1685171388205%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1685209031418%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.05.2023 17:36 Farm",
+	"lastEventDate": "27.05.2023 17:39 Farm",
 	"rfa": true
 }
