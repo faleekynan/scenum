@@ -7,7 +7,7 @@
 	"amountFriends": "",
 	"screenname": "Радослава Стефаник",
 	"birthdate": "1998 January 22",
-	"country": "",
+	"country": "Ukraine",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716707360.81716,
+			"expirationDate": 1716744264.580921,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685776217,
+			"expirationDate": 1685813135,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -77,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716707360.817213,
+			"expirationDate": 1716744264.58097,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -86,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "15%3Aa9rO4mE_SveUDQ%3A2%3A1684962398%3A-1%3A-1%3A%3AAcUVwZ2xSmvm2WVonq0_5oQh3nW90eCvQFjsxGelyTY"
+			"value": "15%3Aa9rO4mE_SveUDQ%3A2%3A1684962398%3A-1%3A-1%3A%3AAcXZ1L3xZ6-nVJZHLH8Kdh_8ZRD0xYAahjNIqlJzeWo"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692947359.817244,
+			"expirationDate": 1692984270.134902,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0y8sJ9CC1XX4eDTv9.AWU1FHZgYkeNuU0tksgZLqFrGh0.Bkcayh._L.AAA.0.0.Bkcayh.AWX0KNP4Jrs"
+			"value": "0QqLBLcxcHVE6QMqD.AWUJ0tzD_b7rG3eXiN_ICIrwCLg.BkcjzJ._L.AAA.0.0.BkcjzO.AWX7jBhc56Q"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,9 +111,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1685171388661%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1685208311024%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.05.2023 17:24 Farm",
+	"lastEventDate": "27.05.2023 17:26 Farm",
 	"rfa": true
 }
