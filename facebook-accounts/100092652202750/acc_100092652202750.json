@@ -115,5 +115,10 @@
 		}
 	],
 	"lastEventDate": "27.05.2023 17:31 Farm",
-	"rfa": true
+	"rfa": true,
+	"funPagesInfo": [
+		{
+			"url": "https://www.facebook.com/profile.php?id=100093003254391"
+		}
+	]
 }
