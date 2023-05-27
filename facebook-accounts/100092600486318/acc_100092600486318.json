@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "27.05.2023 17:23 Farm",
+	"lastEventDate": "27.05.2023 17:25 Farm",
 	"status": 2,
 	"id": "100092600486318",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Февросія Февросія",
 	"birthdate": "1993 May 24",
-	"country": "",
+	"country": "Ukraine",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716707770.383504,
+			"expirationDate": 1716744214.523018,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685776656,
+			"expirationDate": 1685813070,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716707770.383553,
+			"expirationDate": 1716744214.523072,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +100,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "21%3AK-Cs9YTpqx5lnw%3A2%3A1684959672%3A-1%3A-1%3A%3AAcUjI3Boedo7_qVeogQn9dVnAP60G4GtQnvLbwbYSg"
+			"value": "21%3AK-Cs9YTpqx5lnw%3A2%3A1684959672%3A-1%3A-1%3A%3AAcUeLLmxmYY6D0T-U6cJ1aeV97ZPNfOsWqTcr16hnFc"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692947799.388315,
+			"expirationDate": 1692984215.43747,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0DXnKpfDb0yjgNyJ9.AWUNTvtaEzCo-5n5tTKNPGAhAuc.Bkca47.G2.AAA.0.0.Bkca5Y.AWUUIMQWPkY"
+			"value": "0ElJqGRZljow9BdrQ.AWWHzT_KV6qLdnZ0Af3k0F18ht0.BkcjyX.G2.AAA.0.0.BkcjyY.AWV0puqfqRQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1685171853945%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1685208246499%2C%22v%22%3A1%7D"
 		}
 	]
 }
