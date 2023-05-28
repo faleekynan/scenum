@@ -1,15 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "28.05.2023 11:08 Farm",
+	"lastEventDate": "28.05.2023 11:11 Farm",
 	"status": 2,
 	"id": "100092967423726",
 	"name": "",
 	"amountFriends": "",
-	"screenname": "Євстахія Прядун",
-	"birthdate": "1993 February 23",
-	"country": "",
-	"isAvatarExists": false,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -52,7 +48,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716714544.856089,
+			"expirationDate": 1716808105.982926,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +61,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685780357,
+			"expirationDate": 1685876959,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +87,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716714544.856141,
+			"expirationDate": 1716808105.982979,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +96,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "12%3AsdmVJ4Ek_BJL9w%3A2%3A1684659141%3A-1%3A-1%3A%3AAcU6qeAuSg7ehUDG8K5wfmDLhKnQTuczHAgX3NXdIw"
+			"value": "12%3AsdmVJ4Ek_BJL9w%3A2%3A1684659141%3A-1%3A-1%3A%3AAcXSxC8j34ilsZeV_Cf5k4SQqOF13ORUGs9xDJnSru8"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692954543.856175,
+			"expirationDate": 1693048104.983013,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,20 +109,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0l4XE7bVeSk8EhDbA.AWX6t3C6tP6hCVMImmPfSUe6gVA.Bkccix.kH.AAA.0.0.Bkccix.AWVbZGoD4bk"
-		},
-		{
-			"domain": ".www.facebook.com",
-			"expirationDate": 1719738633.351169,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "m_ls",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABYSFq6cp4EHEwUW3Luk3JbCLQA%22%2C%222%22%3A%22GSwVQBxMAAAWABbmoo7HDBYAABV-HEwAABYAFuyijscMFgAAFigA%22%7D%2C%22d%22%3A%223e9981ac-e930-4593-b2bd-b0581fbda162%22%2C%22s%22%3A%221%22%2C%22u%22%3A%2294ux5x%22%7D"
+			"value": "0WNG5qbOrat0qQ3tv.AWWVAgu3PuxAelTuvj61tpuZiEQ.BkczYq.kH.AAA.0.0.BkczYq.AWVMFTk_jd0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -138,7 +121,20 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1685178633424%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1685272138629%2C%22v%22%3A1%7D"
+		},
+		{
+			"domain": ".www.facebook.com",
+			"expirationDate": 1719832155.004083,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "m_ls",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABYWFq6cp4EHEwUW3Luk3JbCLQA%22%2C%222%22%3A%22GSwVQBxMAAAWABbmoo7HDBYAABV-HEwAABYAFuyijscMFgAAFigA%22%7D%2C%22d%22%3A%223e9981ac-e930-4593-b2bd-b0581fbda162%22%2C%22s%22%3A%220%22%2C%22u%22%3A%221zkhoz%22%7D"
 		}
 	]
 }
