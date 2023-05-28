@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "28.05.2023 10:52 Farm",
+	"lastEventDate": "28.05.2023 10:57 Farm",
 	"status": 2,
 	"id": "100092500330050",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Євстахія Химич",
 	"birthdate": "1989 April 17",
-	"country": "",
+	"country": "Ukraine",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716713934.101356,
+			"expirationDate": 1716807346.041756,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685780255,
+			"expirationDate": 1685876198,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716713934.101408,
+			"expirationDate": 1716807346.04181,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +100,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "22%3AFoGatb51T83RpQ%3A2%3A1684659144%3A-1%3A-1%3A%3AAcXn9vIlbst86cC2cZdKtGOJ7fJ6hXn_lxN8MCFn_Q"
+			"value": "22%3AFoGatb51T83RpQ%3A2%3A1684659144%3A-1%3A-1%3A%3AAcXLMFfEwpJxTkeYKvD_C2B04xX1WX5uL4EQltk_JgQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692953933.101436,
+			"expirationDate": 1693047345.04184,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0AYnhW8nLs6dlcsy7.AWVgJtRLqdB71HiO8qvDE0Zy588.BkccZN.-P.AAA.0.0.BkccZN.AWWI6o14UnE"
+			"value": "0RUJp14iABWEVubWv.AWWj2xiVx2PqjljCKqdH48hWeIM.BkczMy.-P.AAA.0.0.BkczMy.AWVoN6pn7QU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1685178028350%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1685271376073%2C%22v%22%3A1%7D"
 		}
 	]
 }
