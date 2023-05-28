@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "28.05.2023 11:10 Farm",
+	"lastEventDate": "28.05.2023 11:19 Farm",
 	"status": 2,
 	"id": "100092514832204",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Анісія Горілий",
 	"birthdate": "1988 March 14",
-	"country": "",
+	"country": "Ukraine",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716714196.354376,
+			"expirationDate": 1716808584.747236,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685780252,
+			"expirationDate": 1685877457,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716714196.354424,
+			"expirationDate": 1716808584.747291,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +100,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "7%3AFQE-eHM7ob3SDQ%3A2%3A1684348629%3A-1%3A-1%3A%3AAcX8Wq-xwzVN8lmTNgMUAIHS3zHHhet_OSytLdYL4A"
+			"value": "7%3AFQE-eHM7ob3SDQ%3A2%3A1684348629%3A-1%3A-1%3A%3AAcWYzBPu6T3B-ihksT6GTJMyYv-9tRy3OArG2FrgxTc"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692954198.966331,
+			"expirationDate": 1693048583.747324,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0TWfgxh8qkI2XJOym.AWWBj5QdcHpMwfd-nNMo4pdARmg.BkccdV.qW.AAA.0.0.BkccdX.AWXnPg1W7K0"
+			"value": "0RCKeRJoVG5MLUwcm.AWVEFKavm3Ls_80U-szcCDU-sG0.BkczgJ.qW.AAA.0.0.BkczgJ.AWVtBjPYfeg"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1685178253560%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1685272611939%2C%22v%22%3A1%7D"
 		}
 	]
 }
