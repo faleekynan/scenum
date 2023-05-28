@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "28.05.2023 11:07 Farm",
+	"lastEventDate": "28.05.2023 11:09 Farm",
 	"status": 2,
 	"id": "100093045540420",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Роксана Воблий",
 	"birthdate": "1994 August 22",
-	"country": "",
+	"country": "Ukraine",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716714037.608323,
+			"expirationDate": 1716808033.963287,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685780336,
+			"expirationDate": 1685876885,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716714037.608371,
+			"expirationDate": 1716808033.963345,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +100,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "26%3AMzRd4cCl-MEwLg%3A2%3A1684347535%3A-1%3A-1%3A%3AAcW0NgN2MHN1lXUqbRCzj7xt0V2l4jMWVxtqwXugQQ"
+			"value": "26%3AMzRd4cCl-MEwLg%3A2%3A1684347535%3A-1%3A-1%3A%3AAcWVttVciQbcS8TVVkzVLauWlOzogDMZ5SVcbamcX54"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692954036.608399,
+			"expirationDate": 1693048032.963376,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0qTcDNQ66SnfRVSCe.AWVgKFKpKmQ6zYlp7WOwxZyr6-0.Bkcca2.tU.AAA.0.0.Bkcca2.AWWIXFwItU0"
+			"value": "0MM50yTHmWWJKQ9yc.AWVEmMT948jRUWki3bIkfXmTmaA.BkczXi.tU.AAA.0.0.BkczXi.AWXSPj7Dnec"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1685178088506%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1685272060963%2C%22v%22%3A1%7D"
 		}
 	]
 }
