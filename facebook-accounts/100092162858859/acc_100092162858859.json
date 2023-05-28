@@ -38,7 +38,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716744205.659948,
+			"expirationDate": 1716797367.241541,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685813064,
+			"expirationDate": 1685866223,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -64,7 +64,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716744205.660001,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ2YnZlczF0bnhmYnMiLCJ0aW1lIjoxNjg1MjEwODg0fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1716797367.241579,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -73,11 +85,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "3%3AG6IG-e1UknTc7w%3A2%3A1684960396%3A-1%3A-1%3A%3AAcU9B6VF3shcF8WdWulCiRyBmUlTUYhbYHY_UbPe72w"
+			"value": "3%3AG6IG-e1UknTc7w%3A2%3A1684960396%3A-1%3A-1%3A%3AAcVkmyud9RnUvqJu6jPC_S2hSdOEoRhz_ZkuyIQGjhA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692984206.220786,
+			"expirationDate": 1693037366.241597,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -86,7 +98,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0HNusmR739iTaHYRa.AWX-yheloqmQ1nrgLdde_34DYvs.BkcjyO.O-.AAA.0.0.BkcjyP.AWW_PWlroUw"
+			"value": "0Sdy7KYL3xZTLSb4S.AWUY_i534ZKQ1D1j0sfj-j9wb5U.Bkcww4.O-.AAA.0.0.Bkcww4.AWWyUTiGQJU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -98,10 +110,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1685208236465%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1685261397444%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "28.05.2023 08:09 Farm",
+	"lastEventDate": "28.05.2023 08:12 Farm",
 	"rfa": true,
 	"funPagesInfo": [
 		{
