@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "28.05.2023 11:07 Farm",
+	"lastEventDate": "28.05.2023 11:09 Farm",
 	"status": 2,
 	"id": "100092684984557",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Софія Калинець",
 	"birthdate": "1988 March 20",
-	"country": "",
+	"country": "Ukraine",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716714156.556298,
+			"expirationDate": 1716808088.911346,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685780248,
+			"expirationDate": 1685876941,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716714156.55635,
+			"expirationDate": 1716808088.911394,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +100,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "21%3ADwDqG61SSyfdaw%3A2%3A1684348641%3A-1%3A-1%3A%3AAcXRsbxstH7xARfOEdZ3KqT129uy5x3Bdg04CB0Uag"
+			"value": "21%3ADwDqG61SSyfdaw%3A2%3A1684348641%3A-1%3A-1%3A%3AAcVnveUDLPbiaotL-tookovyRGt4evidlvlzfGd6Oko"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692954180.558635,
+			"expirationDate": 1693048087.911423,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0XT72sw7v2lfnlzg1.AWXumA4icwB0ueW8EWbbR3SSsY4.Bkccct.-J.AAA.0.0.BkccdF.AWWgcKskd2E"
+			"value": "0gPiejIWl43bW2NR6.AWW8RaZxQHxrfxFdP4HAjj4bzXg.BkczYZ.-J.AAA.0.0.BkczYZ.AWVIK69GPBM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1685178235948%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1685272120459%2C%22v%22%3A1%7D"
 		}
 	]
 }
