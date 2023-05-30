@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "30.05.2023 06:20 Farm",
+	"lastEventDate": "30.05.2023 06:22 Farm",
 	"status": 2,
 	"id": "100092967423726",
 	"name": "",
@@ -48,7 +48,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716808105.982926,
+			"expirationDate": 1716963608.721344,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -61,7 +61,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685876959,
+			"expirationDate": 1686032464,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -87,7 +87,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716808105.982979,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ2ZDkxdjFvYXplM2MiLCJ0aW1lIjoxNjg1MjczNzU2fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1716963608.721396,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -96,11 +108,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "12%3AsdmVJ4Ek_BJL9w%3A2%3A1684659141%3A-1%3A-1%3A%3AAcXSxC8j34ilsZeV_Cf5k4SQqOF13ORUGs9xDJnSru8"
+			"value": "12%3AsdmVJ4Ek_BJL9w%3A2%3A1684659141%3A-1%3A-1%3A%3AAcVdArmO7oecxCgOZh9hKMu83kLMrpIrGQbqq3sS9ZA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1693048104.983013,
+			"expirationDate": 1693203610.323417,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -109,7 +121,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0WNG5qbOrat0qQ3tv.AWWVAgu3PuxAelTuvj61tpuZiEQ.BkczYq.kH.AAA.0.0.BkczYq.AWVMFTk_jd0"
+			"value": "0dj07URXtdyK2wskj.AWXSKfsj6_Kud6w8Z3dtODkP_rw.BkdZWZ.kH.AAA.0.0.BkdZWb.AWUUnFgApzM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -121,11 +133,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1685272138629%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1685427642449%2C%22v%22%3A1%7D"
 		},
 		{
 			"domain": ".www.facebook.com",
-			"expirationDate": 1719832155.004083,
+			"expirationDate": 1719987659.789403,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "m_ls",
@@ -134,12 +146,16 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABYWFq6cp4EHEwUW3Luk3JbCLQA%22%2C%222%22%3A%22GSwVQBxMAAAWABbmoo7HDBYAABV-HEwAABYAFuyijscMFgAAFigA%22%7D%2C%22d%22%3A%223e9981ac-e930-4593-b2bd-b0581fbda162%22%2C%22s%22%3A%220%22%2C%22u%22%3A%221zkhoz%22%7D"
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABYWFq6cp4EHEwUW3Luk3JbCLQA%22%2C%222%22%3A%22GSwVQBxMAAAWABbmoo7HDBYAABV-HEwAABYAFuyijscMFgAAFigA%22%7D%2C%22d%22%3A%223e9981ac-e930-4593-b2bd-b0581fbda162%22%2C%22s%22%3A%220%22%2C%22u%22%3A%227usyp6%22%7D"
 		}
 	],
 	"funPagesInfo": [
 		{
 			"url": "https://www.facebook.com/profile.php?id=100092641433060"
 		}
-	]
+	],
+	"screenname": "Євстахія Прядун",
+	"birthdate": "1993 February 23",
+	"country": "Ukraine",
+	"isAvatarExists": false
 }
