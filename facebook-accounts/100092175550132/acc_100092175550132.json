@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "30.05.2023 06:13 Farm",
+	"lastEventDate": "30.05.2023 06:19 Farm",
 	"status": 2,
 	"id": "100092175550132",
 	"name": "",
@@ -48,7 +48,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716808145.798161,
+			"expirationDate": 1716963404.266729,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -61,7 +61,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685876996,
+			"expirationDate": 1686032267,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -87,7 +87,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716808145.798217,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ2ZDkyc3Jxb3cydCIsInRpbWUiOjE2ODUyNzM1MzZ9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1716963404.266778,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -96,11 +108,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "22%3Am_HxQ62_8_pp6g%3A2%3A1684659145%3A-1%3A-1%3A%3AAcWqmNQM3Ags0Omwts08PKuwYiPCVK_d9nNKjmNBLvM"
+			"value": "22%3Am_HxQ62_8_pp6g%3A2%3A1684659145%3A-1%3A-1%3A%3AAcUOJM6KY7vYQorpdHQtzTRVjDllcVWTuczIryrOEj4"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1693048144.798245,
+			"expirationDate": 1693203406.495582,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -109,7 +121,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0eq80LJd82F1OEAFG.AWWprQO6NcqgR6Y3rdZPZ2naObE.BkczZS.NC.AAA.0.0.BkczZS.AWUEMitbyDo"
+			"value": "0vEDixUqje21gIawn.AWVpPrgbt4hegVkNuB2RI_Ga89E.BkdZTN.NC.AAA.0.0.BkdZTP.AWXdkYMhiC0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -121,12 +133,16 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1685272172576%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1685427465747%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPagesInfo": [
 		{
 			"url": "https://www.facebook.com/profile.php?id=100093051222940"
 		}
-	]
+	],
+	"screenname": "Рута Костецька",
+	"birthdate": "2000 April 22",
+	"country": "Ukraine",
+	"isAvatarExists": false
 }
