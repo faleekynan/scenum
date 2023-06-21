@@ -90,7 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1687949755,
+			"expirationDate": 1687949980,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -103,7 +103,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1695120887.589193,
+			"expirationDate": 1695121124.462715,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0aGczFYzG2L2sajXd.AWUzA6ngQEPbaV3a_eBDtub-U7I.BkktYj.zL.AAA.0.0.Bkktb6.AWW8fWxvVGA"
+			"value": "0aGczFYzG2L2sajXd.AWVxK7cAfF2pMi4wiQvxVuRzYa0.BkktYj.zL.AAA.0.0.Bkktfn.AWVDr3VA1VU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,8 +124,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1687344942318%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1687345156501%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "21.06.2023 10:57 тест"
+	"lastEventDate": "21.06.2023 11:00 тест"
 }
