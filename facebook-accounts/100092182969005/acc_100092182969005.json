@@ -1,45 +1,19 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "22.06.2023 07:38 Farm",
+	"lastEventDate": "22.06.2023 07:58 Farm",
 	"status": 2,
 	"id": "100092182969005",
 	"name": "",
 	"amountFriends": "3",
 	"screenname": "Соломія Конотопенко",
-	"birthdate": "1994 August 19",
-	"country": "Ukraine",
+	"birthdate": "",
+	"country": "",
 	"isAvatarExists": false,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1718310962.798386,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "datr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "4UlQZJPPLQQZOAkM12g--WXV"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1718883897.045257,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "c_user",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "100092182969005"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1718310969.136891,
+			"expirationDate": 1721979538.204169,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "sb",
@@ -52,7 +26,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1687952867,
+			"expirationDate": 1688024599,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -65,7 +39,46 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1718883897.045381,
+			"expirationDate": 1721979470.663755,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "datr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "TfqTZGiiXovuPxANEnVPGBYG"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1688024302.73846,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "locale",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "en_US"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1718955532.204244,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100092182969005"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1718955532.204276,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -74,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "35%3AkYVEISeVj8hMBA%3A2%3A1683750965%3A-1%3A16013%3A%3AAcUQ2M6hGqJVtJUG2HU6USQColywlbV6DqsQUrrkzg"
+			"value": "3%3APR2NxPJ34OXIGA%3A2%3A1687419536%3A-1%3A16013"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1695126607.574211,
+			"expirationDate": 1695195553.835856,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -87,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0X4VAMhKPf9zVqhuZ.AWUmHYi97PGY0INu0EK8aEnGkOk.BkkuK7.Vg.AAA.0.0.Bkku1Q.AWWAGswb0a4"
+			"value": "08RUj7zy13ecAVbRA.AWUswB50E2agxwM2PSsDHZSSPMU.BkkvDZ.sf.AAA.0.0.Bkk_qk.AWVXzZh3GhE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -99,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1687350663395%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1687419791760%2C%22v%22%3A1%7D"
 		}
 	]
 }
