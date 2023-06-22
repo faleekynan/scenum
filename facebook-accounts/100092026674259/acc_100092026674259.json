@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "21.06.2023 14:28 Farm",
+	"lastEventDate": "22.06.2023 07:36 Farm",
 	"status": 2,
 	"id": "100092026674259",
 	"name": "",
-	"amountFriends": "102",
+	"amountFriends": "106",
 	"screenname": "Меланія Кормош",
 	"birthdate": "1998 May 27",
 	"country": "Ukraine",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1687955562,
+			"expirationDate": 1687962500,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1718886645.611587,
+			"expirationDate": 1718955259.131911,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1718886645.611736,
+			"expirationDate": 1718955259.132025,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "5%3AMKksxdF4As18mQ%3A2%3A1687347805%3A-1%3A15730%3A%3AAcWoFGoOlrSqfrp2PTt1XYh1H7gRv10E99Plbd3X2Q"
+			"value": "5%3AMKksxdF4As18mQ%3A2%3A1687347805%3A-1%3A15730%3A%3AAcVZN45RTKtCC5rV3UrOtfKLoiXfPm4tgb3UNRUtmA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1695126644.611849,
+			"expirationDate": 1695195258.132098,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0DKpVxmm757a0nX87.AWXbJOBi2raOKd5X_ARcPLM0CCA.Bkku12.rz.AAA.0.0.Bkku12.AWXxdqcGPm4"
+			"value": "0UqaqQqWLOUG88xYy.AWWJgJycXWHOdqUtWERw9Q0tiRQ.Bkk_l9.rz.AAA.0.0.Bkk_l9.AWV1nEBvt64"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1687350750534%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1687419309609%2C%22v%22%3A1%7D"
 		}
 	]
 }
