@@ -4,7 +4,7 @@
 	"status": 2,
 	"id": "100090138132821",
 	"name": "",
-	"amountFriends": "96",
+	"amountFriends": "101",
 	"screenname": "Ангелина Глотова",
 	"birthdate": "1995 July 12",
 	"country": "",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1687963318,
+			"expirationDate": 1688029265,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -77,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1718884399.498484,
+			"expirationDate": 1718960485.296733,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -90,19 +90,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1718884399.498511,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "17%3AiWPwTb0oESwVQg%3A2%3A1687348401%3A-1%3A15729"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -111,11 +98,24 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ3bHFkZzFweno2dHAiLCJ0aW1lIjoxNjg3MzQ4NDIwfQ%3D%3D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ3bHpoYXh6YnRkaSIsInRpbWUiOjE2ODczNjAyMjJ9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1695134737.657172,
+			"expirationDate": 1718960485.296905,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "17%3AiWPwTb0oESwVQg%3A2%3A1687348401%3A-1%3A15729%3A%3AAcVrDDaIb88Ky-G2R8ZXIYK6NFUxMGwIA1IOAm172g"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1695200527.407179,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "02F4MhzDHOPHb9ZPn.AWWdk1QCA4VqoKvQMFP3wrPOuJA.BkA2JL.pN.AAA.0.0.Bkkw0S.AWUQUn6pS-E"
+			"value": "0fCH8UOcVGtnCaI5j.AWWdYbw-mry9G4BMrpbwI8FYFAc.BklA3n.pN.AAA.0.0.BklA4R.AWUn7IliwOM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1687358827857%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1687424556525%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "21.06.2023 15:58 Farm"
+	"lastEventDate": "22.06.2023 09:05 Farm"
 }
