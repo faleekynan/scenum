@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "21.06.2023 14:04 Farm",
+	"lastEventDate": "22.06.2023 07:37 Farm",
 	"status": 2,
 	"id": "100092317209930",
 	"name": "",
-	"amountFriends": "90",
+	"amountFriends": "103",
 	"screenname": "Йосифата Качура",
 	"birthdate": "1996 November 5",
 	"country": "Ukraine",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1687955388,
+			"expirationDate": 1687959694,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1718883992.476684,
+			"expirationDate": 1718955265.598901,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1718883992.476736,
+			"expirationDate": 1718955265.598994,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "30%3ArS3Zz7dDd6kMqw%3A2%3A1687347996%3A-1%3A15729"
+			"value": "30%3ArS3Zz7dDd6kMqw%3A2%3A1687347996%3A-1%3A15729%3A%3AAcWUktZH5nw9ZODDBJOdR4EGdMNwfxN667lTgeULZQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1695126496.447816,
+			"expirationDate": 1695195264.599044,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0sZK91EwsdvBZ7Pfp.AWXti1XOBnDj5hHCWOxK-MF3EBs.BkTRDD.vl.AAA.0.0.Bkkuzh.AWVtnyOcOOk"
+			"value": "0PvXVoVXTFeNdF9Vz.AWWQwk-SxZQU9xFnnYVt--8LVLg.Bkk_mD.vl.AAA.0.0.Bkk_mD.AWUPEIxgeho"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1687350568401%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100086745816156%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1687419320298%2C%22v%22%3A1%7D"
 		}
 	]
 }
