@@ -4,7 +4,7 @@
 	"status": 2,
 	"id": "100090313685165",
 	"name": "",
-	"amountFriends": "76",
+	"amountFriends": "80",
 	"screenname": "Мария Пономарева",
 	"birthdate": "2002 April 16",
 	"country": "Ukraine",
@@ -90,7 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1718960529.594147,
+			"expirationDate": 1719054714.929238,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -116,19 +116,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ3bHpuYzFucXN3c3EiLCJ0aW1lIjoxNjg3MzYyOTU1fQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1688029282,
+			"expirationDate": 1688123593,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -141,7 +129,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1718960529.594233,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ3bmRxeGo5dXczeiIsInRpbWUiOjE2ODc0MjUzOTd9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1719054714.929328,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -150,11 +150,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "29%3AOEcXghMfQ9deXA%3A2%3A1687358503%3A-1%3A15730%3A%3AAcWo7JeaQfyEkUTeVVtjPFiYPY4_xzKIygg7aw65dQ"
+			"value": "29%3AOEcXghMfQ9deXA%3A2%3A1687358503%3A-1%3A15730%3A%3AAcVtTmS6eVW1TjizQZItLgTlfO4je4UrpzEE8zj88g"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1695200528.594286,
+			"expirationDate": 1695294713.929377,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -163,7 +163,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0ei28F1MsLG4YsdXJ.AWWzrN3CVZj9wM_S_vXABtJZev8.BklA4T.Z8.AAA.0.0.BklA4T.AWXyoFmtdo0"
+			"value": "0gRHLgbjk6HRCQ2s3.AWVCNStOECdgwNCQQFpAYrz767E.BklX38.Z8.AAA.0.0.BklX38.AWW7BlSRLUY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -175,8 +175,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1687424564700%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1687518756156%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "22.06.2023 10:13 Farm"
+	"lastEventDate": "23.06.2023 11:14 Farm"
 }
