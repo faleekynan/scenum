@@ -4,10 +4,10 @@
 	"status": 2,
 	"id": "100092672903728",
 	"name": "",
-	"amountFriends": "3",
+	"amountFriends": "12",
 	"screenname": "Ніка Солтис",
 	"birthdate": "1993 May 24",
-	"country": "",
+	"country": "Ukraine",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -38,7 +38,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1718955324.778019,
+			"expirationDate": 1719049022.848548,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -77,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1688024192,
+			"expirationDate": 1688117822,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -86,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "929x900"
+			"value": "1920x937"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1718955324.778098,
+			"expirationDate": 1719049022.848628,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -99,11 +99,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "30%3ATHA8IY04eebGmA%3A2%3A1685527124%3A-1%3A-1%3A%3AAcXVxN8JH4AO7U2lJ9Efxu2s9GYEsWQt6AnyVot8Dw"
+			"value": "30%3ATHA8IY04eebGmA%3A2%3A1685527124%3A-1%3A-1%3A%3AAcXW8YwCK9KW1i-vGxku3oOvz3sX9NljgjtfEIx1vA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1695195322.778144,
+			"expirationDate": 1695289078.442267,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0x3HzIGHklCV1XnUT.AWUGE6EPcZPgRsL5535zAaMNTzY.Bkk_m_.zL.AAA.0.0.Bkk_m_.AWXnsxAAJKw"
+			"value": "0GtSIsyp1keVe5B3A.AWXuLgW75JwhHpOK0kaelHa-g7s.BklWfA.zL.AAA.0.0.BklWf3.AWWsqfQ8o0o"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,8 +124,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1687419363651%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1687513130867%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "22.06.2023 08:41 Farm"
+	"lastEventDate": "23.06.2023 09:40 Farm"
 }
