@@ -4,7 +4,7 @@
 	"status": 2,
 	"id": "100092538095226",
 	"name": "",
-	"amountFriends": "7",
+	"amountFriends": "14",
 	"screenname": "Зореслава Городиська",
 	"birthdate": "1995 April 20",
 	"country": "Ukraine",
@@ -25,7 +25,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1718960646.984665,
+			"expirationDate": 1719054718.980069,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1688029280,
+			"expirationDate": 1688123594,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1718960646.984996,
+			"expirationDate": 1719054718.980171,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -73,11 +73,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "28%3A_tCMZmbw98pqpw%3A2%3A1687348450%3A-1%3A15627%3A%3AAcUn2fJBC0v-OEajNjPQ7rSUlINgI7dlExtT30OXSQ"
+			"value": "28%3A_tCMZmbw98pqpw%3A2%3A1687348450%3A-1%3A15627%3A%3AAcX7MtXWcQWBwX9C-TPyGk6XrQ5U0d408fkIrPS_uw"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1695200645.985312,
+			"expirationDate": 1695294717.980239,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -86,7 +86,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0rSf8iwEt2l4APFys.AWVPx57sSIQw72PbUYjRGPanJKs.BklA6J.HL.AAA.0.0.BklA6J.AWWsZWGm7gE"
+			"value": "00yyOMNDaC02IDs81.AWX1FRMa_g07sUS9t8NY8hlYO2M.BklX4A.HL.AAA.0.0.BklX4A.AWX-KeJ-gPM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -98,8 +98,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100027775890717%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1687424720053%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100027775890717%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1687518724702%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "22.06.2023 10:09 Farm"
+	"lastEventDate": "23.06.2023 11:14 Farm"
 }
