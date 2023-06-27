@@ -1,8 +1,113 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "27.06.2023 11:03 Farm",
+	"lastEventDate": "27.06.2023 11:06 Farm",
 	"status": 2,
 	"id": "100092317209930",
-	"name": ""
+	"name": "",
+	"cookie": [
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1719140085,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "datr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "wxBNZH2U6eQ2QOq25Snutmwa"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1719140085,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "sb",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "wxBNZEHioqFa6woP07jFurZQ"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1688468694,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "929x900"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1719140085,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "locale",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "ru_RU"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1719399825.374908,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100092317209930"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1719399825.374987,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "30%3ArS3Zz7dDd6kMqw%3A2%3A1687347996%3A-1%3A15729%3A%3AAcVhqtzqqVWSv26D8puoPRh6wZq1F7qEuGff-LjCGw"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1695639824.37502,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0LSPNLWWEukVtkzPI.AWXBiVHpb9NlnOhiglmr01Ia1ok.BkmsIS.vl.AAA.0.0.BkmsIS.AWXtjVOwvG4"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "presence",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1687863862538%2C%22v%22%3A1%7D"
+		}
+	]
 }
